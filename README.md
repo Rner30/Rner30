@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dario Aguirre, Frontend Developer
+- 👋 Hi, I’m Dario Aguirre, Full Stack Developer
 ```javascript
 const Stack = [
-  {Javascript, HTML, CSS},
-  {React, Redux, Bootstrap, Sass}
+  {React,Bootstrap,Sass},
+  {NodeJS,Express,MongoDB}  
 ]
 ```
 - 📫 [Linkedin](https://www.linkedin.com/in/dario-aguirre-4ba043203/)
